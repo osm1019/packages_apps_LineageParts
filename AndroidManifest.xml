@@ -51,7 +51,7 @@
                 android:value="org.lineageos.lineageparts.PartsUpdater" />
         </activity>
 
-        <activity
+        <!--<activity
             android:name=".trust.TrustOnBoardingActivity"
             android:enabled="true"
             android:excludeFromRecents="true"
@@ -62,7 +62,7 @@
                 <action android:name="org.lineageos.lineageparts.TRUST_HINT" />
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
-        </activity>
+        </activity>-->
 
         <receiver
             android:name=".BootReceiver"
@@ -121,7 +121,7 @@
 
             <meta-data
                 android:name="com.android.settings.category"
-                android:value="com.android.settings.category.ia.system" />
+                android:value="com.android.settings.category.ia.alpha" />
             <meta-data
                 android:name="com.android.settings.icon"
                 android:resource="@drawable/ic_settings_buttons" />
@@ -198,7 +198,7 @@
 
             <meta-data
                 android:name="com.android.settings.category"
-                android:value="com.android.settings.category.ia.system" />
+                android:value="com.android.settings.category.ia.alpha" />
             <meta-data
                 android:name="com.android.settings.icon"
                 android:resource="@drawable/ic_settings_statusbar" />
@@ -217,7 +217,7 @@
         </activity-alias>
 
         <!-- Trust interface (Privacy category) -->
-        <activity-alias
+        <!--<activity-alias
             android:name=".trust.TrustPreferences"
             android:exported="true"
             android:label="@string/trust_title"
@@ -240,10 +240,10 @@
             <meta-data
                 android:name="com.android.settings.summary"
                 android:resource="@string/trust_summary" />
-        </activity-alias>
+        </activity-alias>-->
 
         <!-- Contributors Cloud (MyDeviceInfo category) -->
-        <activity-alias
+        <!--<activity-alias
             android:name=".contributors.ContributorsCloudFragment"
             android:exported="true"
             android:label="@string/contributors_cloud_fragment_title"
@@ -266,7 +266,7 @@
             <meta-data
                 android:name="com.android.settings.summary"
                 android:resource="@string/summary_empty" />
-        </activity-alias>
+        </activity-alias>-->
 
         <activity
             android:name=".profiles.NFCProfile"
