@@ -352,14 +352,6 @@
     <string name="status_bar_battery_percentage_default">مخفية</string>
     <string name="status_bar_battery_percentage_text_inside">داخل الرمز</string>
     <string name="status_bar_battery_percentage_text_next">بجانب الرمز</string>
-    <string name="status_bar_brightness_category">السطوع</string>
-    <string name="status_bar_brightness_slider_title">مزلاق السطوع</string>
-    <string name="status_bar_brightness_slider_summary">ضبط السطوع من الإعدادات السريعة</string>
-    <string name="status_bar_brightness_slider_auto_title">السطوع التلقائي</string>
-    <string name="status_bar_brightness_slider_auto_summary">إظهار رمز السطوع التلقائي قرب شريط تمرير السطوع</string>
-    <string name="status_bar_brightness_slider_show_never">عدم الإظهار أبداً</string>
-    <string name="status_bar_brightness_slider_show_expanded">إظهار عند التوسيع</string>
-    <string name="status_bar_brightness_slider_show_always">الإظهار دائمًا</string>
     <string name="network_traffic_settings_title">مراقبة حركة مرور الشبكة</string>
     <string name="network_traffic_settings_summary">عرض مستويات حركة مرور الشبكة الحالية في شريط الحالة</string>
     <string name="network_traffic_mode_title">وضع العرض</string>

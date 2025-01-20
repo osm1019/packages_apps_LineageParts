@@ -378,14 +378,6 @@
     <string name="status_bar_battery_percentage_default">Amagat</string>
     <string name="status_bar_battery_percentage_text_inside">Dins la icona</string>
     <string name="status_bar_battery_percentage_text_next">Al costat de la icona</string>
-    <string name="status_bar_brightness_category">Lluminositat</string>
-    <string name="status_bar_brightness_slider_title">Barra de lluminositat</string>
-    <string name="status_bar_brightness_slider_summary">Ajusta la lluminositat des de la configuració ràpida</string>
-    <string name="status_bar_brightness_slider_auto_title">Lluminositat automàtica</string>
-    <string name="status_bar_brightness_slider_auto_summary">Mostra el botó de lluminositat automàtica al costat de la barra</string>
-    <string name="status_bar_brightness_slider_show_never">No mostris mai</string>
-    <string name="status_bar_brightness_slider_show_expanded">Mostra quan s\'expandeix</string>
-    <string name="status_bar_brightness_slider_show_always">Mostra-ho sempre</string>
     <string name="network_traffic_settings_title">Monitor de trànsit de xarxa</string>
     <string name="network_traffic_settings_summary">Mostra els nivells actuals de trànsit de xarxa a la barra d\'estat</string>
     <string name="network_traffic_mode_title">Mode de pantalla</string>

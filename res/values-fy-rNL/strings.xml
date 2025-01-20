@@ -338,11 +338,6 @@
     <string name="status_bar_battery_percentage_default">Ferstoppe</string>
     <string name="status_bar_battery_percentage_text_inside">Yn it piktogram</string>
     <string name="status_bar_battery_percentage_text_next">Neist it piktogram</string>
-    <string name="status_bar_brightness_category">Helderheid</string>
-    <string name="status_bar_brightness_slider_title">Skowregeler helderheid</string>
-    <string name="status_bar_brightness_slider_summary">Helderheid oanpasse fan flugge ynstellingen út</string>
-    <string name="status_bar_brightness_slider_auto_title">Automatyske helderheid</string>
-    <string name="status_bar_brightness_slider_auto_summary">Skeakeler foar oanpassende helderheid neist de skowregeler</string>
     <string name="network_traffic_settings_title">Netwurkferkearyndikator</string>
     <string name="network_traffic_settings_summary">Netwurkferkear toane yn de steatbalke</string>
     <string name="network_traffic_mode_title">Werjeftemodus</string>

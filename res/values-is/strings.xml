@@ -369,14 +369,6 @@
     <string name="status_bar_battery_percentage_default">Falið</string>
     <string name="status_bar_battery_percentage_text_inside">Innan í táknmynd</string>
     <string name="status_bar_battery_percentage_text_next">Til hliðar við táknmynd</string>
-    <string name="status_bar_brightness_category">Birtustig</string>
-    <string name="status_bar_brightness_slider_title">Sleði fyrir birtustig</string>
-    <string name="status_bar_brightness_slider_summary">Breyta birtustigi úr flýtistillingum</string>
-    <string name="status_bar_brightness_slider_auto_title">Sjálfvirkt birtustig</string>
-    <string name="status_bar_brightness_slider_auto_summary">Sýna víxlreit fyrir aðlaganlegt birtustig nálægt sleða</string>
-    <string name="status_bar_brightness_slider_show_never">Aldrei sýna</string>
-    <string name="status_bar_brightness_slider_show_expanded">Sýna þegar útflett</string>
-    <string name="status_bar_brightness_slider_show_always">Sýna alltaf</string>
     <string name="network_traffic_settings_title">Netkerfisvöktun</string>
     <string name="network_traffic_settings_summary">Birta tákn um netumferð á stöðustiku</string>
     <string name="network_traffic_mode_title">Birtingarhamur</string>

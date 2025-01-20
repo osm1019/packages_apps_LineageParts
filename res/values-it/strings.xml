@@ -378,14 +378,6 @@
     <string name="status_bar_battery_percentage_default">Nascosta</string>
     <string name="status_bar_battery_percentage_text_inside">All\'interno dell\'icona</string>
     <string name="status_bar_battery_percentage_text_next">Accanto all\'icona</string>
-    <string name="status_bar_brightness_category">Luminosità</string>
-    <string name="status_bar_brightness_slider_title">Slider della luminosità</string>
-    <string name="status_bar_brightness_slider_summary">Regola la luminostà dalle impostazioni rapide</string>
-    <string name="status_bar_brightness_slider_auto_title">Luminosità automatica</string>
-    <string name="status_bar_brightness_slider_auto_summary">Mostra il toggle per la luminosità adattiva vicino allo slider</string>
-    <string name="status_bar_brightness_slider_show_never">Non mostrare mai</string>
-    <string name="status_bar_brightness_slider_show_expanded">Mostra quando espanso</string>
-    <string name="status_bar_brightness_slider_show_always">Mostra sempre</string>
     <string name="network_traffic_settings_title">Monitoraggio del traffico di rete</string>
     <string name="network_traffic_settings_summary">Mostra i livelli attuali del traffico di rete nella barra di stato</string>
     <string name="network_traffic_mode_title">Modalità di visualizzazione</string>

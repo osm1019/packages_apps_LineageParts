@@ -378,14 +378,6 @@
     <string name="status_bar_battery_percentage_default">Не показывать</string>
     <string name="status_bar_battery_percentage_text_inside">Внутри значка</string>
     <string name="status_bar_battery_percentage_text_next">Рядом со значком</string>
-    <string name="status_bar_brightness_category">Яркость</string>
-    <string name="status_bar_brightness_slider_title">Регулятор яркости</string>
-    <string name="status_bar_brightness_slider_summary">Регулировка яркости в быстрых настройках</string>
-    <string name="status_bar_brightness_slider_auto_title">Автоматическая яркость</string>
-    <string name="status_bar_brightness_slider_auto_summary">Переключатель адаптивной регулировки яркости рядом с ползунком</string>
-    <string name="status_bar_brightness_slider_show_never">Никогда не показывать</string>
-    <string name="status_bar_brightness_slider_show_expanded">Показать, когда развернуто</string>
-    <string name="status_bar_brightness_slider_show_always">Показывать всегда</string>
     <string name="network_traffic_settings_title">Индикатор сетевого трафика</string>
     <string name="network_traffic_settings_summary">Отображать текущую скорость соединения в строке состояния</string>
     <string name="network_traffic_mode_title">Режим отображения</string>

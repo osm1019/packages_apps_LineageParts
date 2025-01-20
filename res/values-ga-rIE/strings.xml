@@ -378,14 +378,6 @@
     <string name="status_bar_battery_percentage_default">i bhfolach</string>
     <string name="status_bar_battery_percentage_text_inside">Laistigh den deilbhín</string>
     <string name="status_bar_battery_percentage_text_next">In aice leis an deilbhín</string>
-    <string name="status_bar_brightness_category">Gile</string>
-    <string name="status_bar_brightness_slider_title">Sleamhnán gile</string>
-    <string name="status_bar_brightness_slider_summary">Coigeartaigh gile ó na Socruithe Tapa</string>
-    <string name="status_bar_brightness_slider_auto_title">Gile uath </string>
-    <string name="status_bar_brightness_slider_auto_summary">Taispeáin scoránaigh le haghaidh gile oiriúnaitheach in aice leis an sleamhnán</string>
-    <string name="status_bar_brightness_slider_show_never">Ná taispeáin</string>
-    <string name="status_bar_brightness_slider_show_expanded">Taispeáin nuair a leathnaíodh é</string>
-    <string name="status_bar_brightness_slider_show_always">Taispeáin i gcónaí</string>
     <string name="network_traffic_settings_title">Monatóireacht a dhéanamh ar thrácht líonra</string>
     <string name="network_traffic_settings_summary">Taispeáin na leibhéil reatha tráchta líonra sa bharra stádais</string>
     <string name="network_traffic_mode_title">Mód taispeána</string>

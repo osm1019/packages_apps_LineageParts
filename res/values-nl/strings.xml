@@ -378,14 +378,6 @@
     <string name="status_bar_battery_percentage_default">Verborgen</string>
     <string name="status_bar_battery_percentage_text_inside">In het pictogram</string>
     <string name="status_bar_battery_percentage_text_next">Naast het pictogram</string>
-    <string name="status_bar_brightness_category">Helderheid</string>
-    <string name="status_bar_brightness_slider_title">Schuifregelaar helderheid</string>
-    <string name="status_bar_brightness_slider_summary">Helderheid aanpassen vanuit snelle instellingen</string>
-    <string name="status_bar_brightness_slider_auto_title">Automatische helderheid</string>
-    <string name="status_bar_brightness_slider_auto_summary">Schakelaar voor aanpassende helderheid naast de schuifregelaar</string>
-    <string name="status_bar_brightness_slider_show_never">Nooit weergeven</string>
-    <string name="status_bar_brightness_slider_show_expanded">Toon wanneer uitgevouwen</string>
-    <string name="status_bar_brightness_slider_show_always">Altijd weergeven</string>
     <string name="network_traffic_settings_title">Netwerkverkeerindicator</string>
     <string name="network_traffic_settings_summary">Netwerkverkeer weergeven in de statusbalk</string>
     <string name="network_traffic_mode_title">Weergave</string>

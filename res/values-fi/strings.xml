@@ -351,14 +351,6 @@
     <string name="status_bar_battery_percentage_default">Piilotettu</string>
     <string name="status_bar_battery_percentage_text_inside">Kuvakkeen sisällä</string>
     <string name="status_bar_battery_percentage_text_next">Kuvakkeen vieressä</string>
-    <string name="status_bar_brightness_category">Kirkkaus</string>
-    <string name="status_bar_brightness_slider_title">Kirkkauden säädin</string>
-    <string name="status_bar_brightness_slider_summary">Säädä kirkkautta Pika-asetuksista</string>
-    <string name="status_bar_brightness_slider_auto_title">Automaattinen kirkkaus</string>
-    <string name="status_bar_brightness_slider_auto_summary">Näytä automaattisen kirkkauden valinta liukusäätimen vieressä</string>
-    <string name="status_bar_brightness_slider_show_never">Älä näytä koskaan</string>
-    <string name="status_bar_brightness_slider_show_expanded">Näytä laajennettaessa</string>
-    <string name="status_bar_brightness_slider_show_always">Näytä aina</string>
     <string name="network_traffic_settings_title">Verkkoliikenne</string>
     <string name="network_traffic_settings_summary">Näyttää verkon nopeuden tilapalkissa</string>
     <string name="network_traffic_mode_title">Näyttötila</string>

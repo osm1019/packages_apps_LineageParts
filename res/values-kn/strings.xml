@@ -330,11 +330,6 @@
     <string name="status_bar_battery_percentage_default">ಅಡಗಿದೆ</string>
     <string name="status_bar_battery_percentage_text_inside">ಚಿಹ್ನೆಯ ಒಳಗೆ</string>
     <string name="status_bar_battery_percentage_text_next">ಚಿಹ್ನೆಯ ಮುಂದೆ</string>
-    <string name="status_bar_brightness_category">ಪ್ರಖರತೆ</string>
-    <string name="status_bar_brightness_slider_title">ಪ್ರಖರತೆ ಜಾರುಫಲಕ</string>
-    <string name="status_bar_brightness_slider_summary">ತ್ವರಿತ ಆಯ್ಕೆಗಳಿಂದ ಪ್ರಖರತೆ ಸರಿಪಡಿಸು</string>
-    <string name="status_bar_brightness_slider_auto_title">ಸ್ವಯಂ ಪ್ರಖರತೆ</string>
-    <string name="status_bar_brightness_slider_auto_summary">ಜಾರುಫಲಕದ ಬಳಿ ಹೊಂದಿಕೊಳ್ಳುವ ಪ್ರಖರತೆಗೆ ಅಂತರಣ ತೋರಿಸು</string>
     <string name="network_traffic_settings_title">ಜಾಲದ ಸಾಗಾಟ ತೋರುಕ</string>
     <string name="network_traffic_settings_summary">ಸ್ಥಿತಿಪಟ್ಟಿಕೆಯಲ್ಲಿ ಪ್ರಸ್ತುತ ಜಾಲದ ಸಾಗಾಟ ಮಟ್ಟಗಳನ್ನು ತೋರಿಸು</string>
     <string name="network_traffic_mode_title">ಪ್ರದರ್ಶನ ರೀತಿ</string>

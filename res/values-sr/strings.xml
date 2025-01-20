@@ -334,11 +334,6 @@
     <string name="status_bar_battery_percentage_default">Скривено</string>
     <string name="status_bar_battery_percentage_text_inside">Унутар иконе</string>
     <string name="status_bar_battery_percentage_text_next">Поред иконе</string>
-    <string name="status_bar_brightness_category">Осветљеност</string>
-    <string name="status_bar_brightness_slider_title">Клизач за осветљеност</string>
-    <string name="status_bar_brightness_slider_summary">Прилагодите осветљеност из брзих подешавања.</string>
-    <string name="status_bar_brightness_slider_auto_title">Аутоматска осветљеност</string>
-    <string name="status_bar_brightness_slider_auto_summary">Приказује дугме за аутоматско прилагођавање осветљености поред клизача.</string>
     <string name="network_traffic_settings_title">Контролор мрежног саобраћаја</string>
     <string name="network_traffic_settings_summary">Прикажи тренутни проток мрежног саобраћаја у статусној траци</string>
     <string name="network_traffic_mode_title">Режим приказа</string>

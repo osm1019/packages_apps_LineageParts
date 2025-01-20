@@ -378,14 +378,6 @@
     <string name="status_bar_battery_percentage_default">E fshehur</string>
     <string name="status_bar_battery_percentage_text_inside">Brenda ikonës</string>
     <string name="status_bar_battery_percentage_text_next">Në anë të ikonës</string>
-    <string name="status_bar_brightness_category">Ndriçimi</string>
-    <string name="status_bar_brightness_slider_title">Niveli i ndriçimit</string>
-    <string name="status_bar_brightness_slider_summary">Ndrysho ndriçimin tek Cilësime e Shpejta</string>
-    <string name="status_bar_brightness_slider_auto_title">Ndriçim automatik</string>
-    <string name="status_bar_brightness_slider_auto_summary">Shfaq buton për dritë të përshtatshme afër shinës</string>
-    <string name="status_bar_brightness_slider_show_never">Mos e tregoni asnjëherë</string>
-    <string name="status_bar_brightness_slider_show_expanded">Trego kur zgjerohet</string>
-    <string name="status_bar_brightness_slider_show_always">Trego gjithmonë</string>
     <string name="network_traffic_settings_title">Monitorues të trafikut të rrjetit</string>
     <string name="network_traffic_settings_summary">Shfaq nivelin aktual të trafikut të rrjetit në shiritin e statusit</string>
     <string name="network_traffic_mode_title">Mënyra e shfaqjes</string>

@@ -335,11 +335,6 @@
     <string name="status_bar_battery_percentage_default">Ezkutatua</string>
     <string name="status_bar_battery_percentage_text_inside">Ikonoaren barruan</string>
     <string name="status_bar_battery_percentage_text_next">Ikonoaren ondoan</string>
-    <string name="status_bar_brightness_category">Distira</string>
-    <string name="status_bar_brightness_slider_title">Distira tiradera</string>
-    <string name="status_bar_brightness_slider_summary">Doitu distira ezarpen azkarretatik</string>
-    <string name="status_bar_brightness_slider_auto_title">Distira automatikoa</string>
-    <string name="status_bar_brightness_slider_auto_summary">Erakutsi distira adimentsuaren aldatzailea tiraderaren alboan</string>
     <string name="network_traffic_settings_title">Sare trafikoaren monitorea</string>
     <string name="network_traffic_settings_summary">Erakutsi uneko sare-trafiko mailak egoera-barran</string>
     <string name="network_traffic_mode_title">Bistaratze modua</string>
