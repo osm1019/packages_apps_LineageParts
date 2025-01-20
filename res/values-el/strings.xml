@@ -378,14 +378,6 @@
     <string name="status_bar_battery_percentage_default">Κρυφό</string>
     <string name="status_bar_battery_percentage_text_inside">Μέσα στο εικονίδιο</string>
     <string name="status_bar_battery_percentage_text_next">Δίπλα στο εικονίδιο</string>
-    <string name="status_bar_brightness_category">Φωτεινότητα</string>
-    <string name="status_bar_brightness_slider_title">Ρυθμιστικό φωτεινότητας</string>
-    <string name="status_bar_brightness_slider_summary">Ρύθμιση φωτεινότητας από τις Γρήγορες ρυθμίσεις</string>
-    <string name="status_bar_brightness_slider_auto_title">Αυτόματη φωτεινότητα</string>
-    <string name="status_bar_brightness_slider_auto_summary">Εμφάνιση διακόπτη για προσαρμοστική φωτεινότητα δίπλα στο ρυθμιστικό</string>
-    <string name="status_bar_brightness_slider_show_never">Να μην εμφανίζεται ποτέ</string>
-    <string name="status_bar_brightness_slider_show_expanded">Εμφάνιση κατά την επέκταση</string>
-    <string name="status_bar_brightness_slider_show_always">Εμφάνιση πάντα</string>
     <string name="network_traffic_settings_title">Εποπτεία της κίνησης δικτύου</string>
     <string name="network_traffic_settings_summary">Να εμφανίζονται τα τρέχοντα επίπεδα κίνησης δικτύου στη γραμμή κατάστασης</string>
     <string name="network_traffic_mode_title">Λειτουργία προβολής</string>

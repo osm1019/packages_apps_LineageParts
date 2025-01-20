@@ -378,14 +378,6 @@
     <string name="status_bar_battery_percentage_default">Gizli</string>
     <string name="status_bar_battery_percentage_text_inside">Simgenin içinde</string>
     <string name="status_bar_battery_percentage_text_next">Simgenin yanında</string>
-    <string name="status_bar_brightness_category">Parlaklık</string>
-    <string name="status_bar_brightness_slider_title">Parlaklık kaydırıcı</string>
-    <string name="status_bar_brightness_slider_summary">Hızlı ayarlardan parlaklığı ayarlayın</string>
-    <string name="status_bar_brightness_slider_auto_title">Otomatik parlaklık</string>
-    <string name="status_bar_brightness_slider_auto_summary">Otomatik parlaklık simgesini hızlı ayarlarda göster</string>
-    <string name="status_bar_brightness_slider_show_never">Asla gösterme</string>
-    <string name="status_bar_brightness_slider_show_expanded">Genişletildiğinde göster</string>
-    <string name="status_bar_brightness_slider_show_always">Her zaman göster</string>
     <string name="network_traffic_settings_title">Ağ trafiği göstergesi</string>
     <string name="network_traffic_settings_summary">Durum çubuğunda geçerli ağ trafiği seviyelerini göster</string>
     <string name="network_traffic_mode_title">Görüntüleme modu</string>

@@ -356,14 +356,6 @@
     <string name="status_bar_battery_percentage_default">Скрит</string>
     <string name="status_bar_battery_percentage_text_inside">В иконата</string>
     <string name="status_bar_battery_percentage_text_next">До иконата</string>
-    <string name="status_bar_brightness_category">Яркост</string>
-    <string name="status_bar_brightness_slider_title">Плъзгач за яркост</string>
-    <string name="status_bar_brightness_slider_summary">Настройка на яркост от бързи настройки</string>
-    <string name="status_bar_brightness_slider_auto_title">Автоматична яркост</string>
-    <string name="status_bar_brightness_slider_auto_summary">Покажи на превключвач за адаптивна яркост близо до плъзгача</string>
-    <string name="status_bar_brightness_slider_show_never">Никога не показвай</string>
-    <string name="status_bar_brightness_slider_show_expanded">Показване при разгъване</string>
-    <string name="status_bar_brightness_slider_show_always">Винаги показвай</string>
     <string name="network_traffic_settings_title">Монитор на Мрежовия трафик</string>
     <string name="network_traffic_settings_summary">Покажи нивата на текущия мрежов трафик в лентата на състоянието</string>
     <string name="network_traffic_mode_title">Режим на екрана</string>

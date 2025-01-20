@@ -273,10 +273,6 @@
     <string name="status_bar_battery_percentage_title">Працэнт зарада акумулятара</string>
     <string name="status_bar_battery_percentage_text_inside">Унутры значка</string>
     <string name="status_bar_battery_percentage_text_next">Побач са значком</string>
-    <string name="status_bar_brightness_category">Яркасць</string>
-    <string name="status_bar_brightness_slider_summary">Карэкціроўка яркасці ў хуткіх наладах</string>
-    <string name="status_bar_brightness_slider_auto_title">Аўтаматычная яркасць</string>
-    <string name="status_bar_brightness_slider_show_never">Ніколі не паказваць</string>
     <string name="network_traffic_settings_summary">Паказваць бягучыя ўзроўні сеткавага трафіку ў панэлі стану</string>
     <string name="network_traffic_mode_title">Рэжым паказу</string>
     <string name="network_traffic_mode_disable">Адключана</string>

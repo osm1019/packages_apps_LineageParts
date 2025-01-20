@@ -315,10 +315,6 @@
     <string name="status_bar_battery_percentage_default">Dold</string>
     <string name="status_bar_battery_percentage_text_inside">Inuti ikonen</string>
     <string name="status_bar_battery_percentage_text_next">Bredvid ikonen</string>
-    <string name="status_bar_brightness_category">Ljusstyrka</string>
-    <string name="status_bar_brightness_slider_title">Ljusstyrkereglage</string>
-    <string name="status_bar_brightness_slider_auto_title">Automatisk ljusstyrka</string>
-    <string name="status_bar_brightness_slider_show_never">Visa aldrig</string>
     <string name="network_traffic_mode_title">Visningsläge</string>
     <string name="network_traffic_mode_disable">Inaktiverat</string>
     <string name="network_traffic_mode_up">Bara upp</string>

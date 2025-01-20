@@ -378,14 +378,6 @@
     <string name="status_bar_battery_percentage_default">隱藏</string>
     <string name="status_bar_battery_percentage_text_inside">圖示內</string>
     <string name="status_bar_battery_percentage_text_next">圖示旁</string>
-    <string name="status_bar_brightness_category">亮度</string>
-    <string name="status_bar_brightness_slider_title">亮度滑動條</string>
-    <string name="status_bar_brightness_slider_summary">在快速設定中調整亮度</string>
-    <string name="status_bar_brightness_slider_auto_title">自動調整亮度</string>
-    <string name="status_bar_brightness_slider_auto_summary">在亮度滑動條附近顯示自動調節亮度開關</string>
-    <string name="status_bar_brightness_slider_show_never">永不顯示</string>
-    <string name="status_bar_brightness_slider_show_expanded">當展開時顯示</string>
-    <string name="status_bar_brightness_slider_show_always">始終顯示</string>
     <string name="network_traffic_settings_title">網路流量監測器</string>
     <string name="network_traffic_settings_summary">在狀態列中顯示目前的網路級別</string>
     <string name="network_traffic_mode_title">顯示模式</string>

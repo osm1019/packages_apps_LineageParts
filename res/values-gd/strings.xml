@@ -356,14 +356,6 @@
     <string name="status_bar_battery_percentage_default">Falaichte</string>
     <string name="status_bar_battery_percentage_text_inside">Taobh a-staigh na h-ìomhaigheige</string>
     <string name="status_bar_battery_percentage_text_next">Ri taobh na h-ìomhaigheige</string>
-    <string name="status_bar_brightness_category">Soilleireachd</string>
-    <string name="status_bar_brightness_slider_title">Sleamhnachan na soilleireachd</string>
-    <string name="status_bar_brightness_slider_summary">Cuir gleus air an t-soilleireachd o na grad-roghainnean</string>
-    <string name="status_bar_brightness_slider_auto_title">Soilleireachd fhèin-obrachail</string>
-    <string name="status_bar_brightness_slider_auto_summary">Seall toglachadh airson soilleireachd cho-fhreagrach faisg air an t-sleamhnachan</string>
-    <string name="status_bar_brightness_slider_show_never">Na seall idir e</string>
-    <string name="status_bar_brightness_slider_show_expanded">Seall nuair a bhios e leudaichte</string>
-    <string name="status_bar_brightness_slider_show_always">Seall an-còmhnaidh</string>
     <string name="network_traffic_settings_title">Monatair trafaig an lìonraidh</string>
     <string name="network_traffic_settings_summary">Seall na leibheilean trafaige làithreach air bàr na staid</string>
     <string name="network_traffic_mode_title">Modh an taisbeanaidh</string>

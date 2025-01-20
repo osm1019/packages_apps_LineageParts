@@ -378,14 +378,6 @@
     <string name="status_bar_battery_percentage_default">隐藏</string>
     <string name="status_bar_battery_percentage_text_inside">图标内</string>
     <string name="status_bar_battery_percentage_text_next">图标旁</string>
-    <string name="status_bar_brightness_category">亮度</string>
-    <string name="status_bar_brightness_slider_title">亮度滑块</string>
-    <string name="status_bar_brightness_slider_summary">在快速设置中调节亮度</string>
-    <string name="status_bar_brightness_slider_auto_title">自动调节亮度</string>
-    <string name="status_bar_brightness_slider_auto_summary">在亮度滑块附近显示自动调节亮度开关</string>
-    <string name="status_bar_brightness_slider_show_never">从不显示</string>
-    <string name="status_bar_brightness_slider_show_expanded">展开时显示</string>
-    <string name="status_bar_brightness_slider_show_always">总是显示</string>
     <string name="network_traffic_settings_title">网络流量监视</string>
     <string name="network_traffic_settings_summary">在状态栏中显示当前的网络流量级别</string>
     <string name="network_traffic_mode_title">显示模式</string>

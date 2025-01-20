@@ -357,14 +357,6 @@
     <string name="status_bar_battery_percentage_default">Agochado</string>
     <string name="status_bar_battery_percentage_text_inside">Dentro da icona</string>
     <string name="status_bar_battery_percentage_text_next">Ao carón da icona</string>
-    <string name="status_bar_brightness_category">Brillo</string>
-    <string name="status_bar_brightness_slider_title">Barra de brillo</string>
-    <string name="status_bar_brightness_slider_summary">Axustar o brillo dende os axustes rápidos</string>
-    <string name="status_bar_brightness_slider_auto_title">Brillo automático</string>
-    <string name="status_bar_brightness_slider_auto_summary">Amosar a caixa de brillo automático ao carón da barra de brillo</string>
-    <string name="status_bar_brightness_slider_show_never">Non amosar nunca</string>
-    <string name="status_bar_brightness_slider_show_expanded">Amosar ao expandir</string>
-    <string name="status_bar_brightness_slider_show_always">Amosar sempre</string>
     <string name="network_traffic_settings_title">Monitor de tráfico de rede</string>
     <string name="network_traffic_settings_summary">Amosar os niveis actuais do tráfico de rede na barra de estado</string>
     <string name="network_traffic_mode_title">Modo de visualización</string>

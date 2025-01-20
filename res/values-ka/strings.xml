@@ -378,14 +378,6 @@
     <string name="status_bar_battery_percentage_default">დამალული</string>
     <string name="status_bar_battery_percentage_text_inside">ხატულას შიგნით</string>
     <string name="status_bar_battery_percentage_text_next">ხატულას გვერდით</string>
-    <string name="status_bar_brightness_category">სიკაშკაშე</string>
-    <string name="status_bar_brightness_slider_title">სიკაშკაშის სრიალა</string>
-    <string name="status_bar_brightness_slider_summary">სიკაშკაშის შერჩევა სწრაფი პარამეტრებიდან</string>
-    <string name="status_bar_brightness_slider_auto_title">სიკაშკაშის თვითმორგება</string>
-    <string name="status_bar_brightness_slider_auto_summary">მორგებული სიკაშკაშის გადამრთველი სრიალას გვერდით</string>
-    <string name="status_bar_brightness_slider_show_never">არასდროს გამოჩნდეს</string>
-    <string name="status_bar_brightness_slider_show_expanded">გამოჩნდეს ჩამოშლისას</string>
-    <string name="status_bar_brightness_slider_show_always">ყოველთვის გამოჩნდეს</string>
     <string name="network_traffic_settings_title">ქსელში მიმოცვლის ჩვენება</string>
     <string name="network_traffic_settings_summary">ქსელის მიმდინარე დატვირთვის ჩვენება მდგომარეობის ზოლზე</string>
     <string name="network_traffic_mode_title">ჩვენების რეჟიმი</string>
